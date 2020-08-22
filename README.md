@@ -2,6 +2,8 @@
 
 멋진 일들이 기다린다! 🏄
 
+모래성이 무너지면 처음부터 다시 견고하게 쌓아 올리면 돼. <br /> 다시 시작하는 것을 두려워하지 말자 :)
+
 <!--
 **eunha0ne/eunha0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
