@@ -1,3 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunha0ne)](https://hits.seeyoufarm.com)
 
-멋진 일들이 기다린다! 🏄
+멋진 일들이 기다린다~! 🏄
+
+아기자기한 화면 구성과 UI 기능을 구현하는 것을 좋아합니다. <br/> 
+TypeScript, React, Vue.js 등을 사용해서 웹 애플리케이션을 개발하고 있습니다.
